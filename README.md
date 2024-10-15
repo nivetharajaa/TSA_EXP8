@@ -72,4 +72,4 @@ plt.show()
 
 
 ### RESULT:
-Thus we have successfully implemented the Moving Average Model and Exponential smoothing using python.
+Thus we have successfully implemented the Moving Average Model and Exponential smoothing using world population.
