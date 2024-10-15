@@ -1,4 +1,6 @@
-
+### NAME: Nivetha A
+### Reg no:212222230101
+### Date:
 
 # Ex.No: 08     MOVINTG AVERAGE MODEL AND EXPONENTIAL SMOOTHING
 
